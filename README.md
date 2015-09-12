@@ -40,4 +40,18 @@
 
 *PhpStorm
 
+##PHP Y LARAVEL EN LA WEB 
+
+*Protocolo HTTP
+
+*Lenguaje HTML
+
+*Arquitetura Cliente-Servidor
+
+*Antes:Pedir un Archivo
+
+*PHP hoy: Ruteo de URI
+
+*PHP+JS:JSON API+Client-Side programming 
+
 
