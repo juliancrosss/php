@@ -20,3 +20,9 @@ $composer init
 $composer require vendor/package X.Y
 $composer install
 $composer update[vendor/package]
+
+
+EDITOR RECOMENDADO
+PhpStorm
+
+
