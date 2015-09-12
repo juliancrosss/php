@@ -54,4 +54,14 @@
 
 *PHP+JS:JSON API+Client-Side programming 
 
+## Patrones de Arquitectura
+
+# Modelo Vista Controlador (MVC)
+
+Separacion de responsabilidades
+
+* Modelo: Logica de negocio (Modelo de Dominio)
+* Vista: Presentacion Visual
+* Controlador: Coordina las acciones del usuario 
+
 
