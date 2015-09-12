@@ -49,4 +49,11 @@ Separacion de responsabilidades
 * Vista: Presentacion Visual
 * Controlador: Coordina las acciones del usuario 
 
+## Controlador (Controller)
+
+* Se asocia a uno o mas pedidos HTTP
+* Traduce el pedido HTTP en un mensaje de dominio
+* Arma la respuesta al pedido
+
+
 
