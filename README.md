@@ -16,7 +16,7 @@
 
 ## ADMINISTRADO DE DEPENDENCIAS
 
-### "COMPOSER"
+* "COMPOSER"
 
 ## COMANDOS DE COMPOSER
 
@@ -39,9 +39,9 @@
 * PHP hoy: Ruteo de URI
 * PHP+JS:JSON API+Client-Side programming 
 
-## Patrones de Arquitectura
+# Patrones de Arquitectura
 
-# Modelo Vista Controlador (MVC)
+## Modelo Vista Controlador (MVC)
 
 Separacion de responsabilidades
 
